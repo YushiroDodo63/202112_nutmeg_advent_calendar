@@ -1,1 +1,2 @@
 goodbye hogehoge
+this is hoge.txt
